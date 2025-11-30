@@ -2,3 +2,5 @@
 crates/e2e_tests/e2e_tests.log
 .claude/agents
 bin/
+.direnv
+result
